@@ -9,7 +9,7 @@ import sys
 import shutil
 
 path = ""
-os.chdir("C:\\Users\\o8930\\Untitled Folder")
+os.chdir("C:\\Users\\o8930\\Untitled_Folder")
 
 def help():
     print("*** Синтаксис: команда атрибут1 атрибут2 *** \n"
